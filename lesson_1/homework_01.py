@@ -75,3 +75,4 @@ book2 = book1 + 2
 book3 = (book1+book2)/2
 total_cost = book1  + book2 + book3
 print(total_cost)
+pdppz
